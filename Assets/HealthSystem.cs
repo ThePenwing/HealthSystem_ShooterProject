@@ -108,7 +108,7 @@ public class HealthSystem
         }
         else
         {
-            ResetGame();
+            //ResetGame(); keeping this on will make enemies unkillable cause all their stats reset on death
         }
     }
 
